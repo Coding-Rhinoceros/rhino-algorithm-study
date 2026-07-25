@@ -35,13 +35,17 @@
 
 ### Week 01
 
-| 번호 | 플랫폼 | 문제   | 유형 | 난이도 | 링크                      | 진행 상태 |
-| ---: | ------ | ------ | ---- | ------ | ------------------------- | --------- |
-|    1 | 미정   | 문제명 | 미정 | 미정   | [문제 바로가기](문제링크) | 예정      |
-|    2 | 미정   | 문제명 | 미정 | 미정   | [문제 바로가기](문제링크) | 예정      |
-|    3 | 미정   | 문제명 | 미정 | 미정   | [문제 바로가기](문제링크) | 예정      |
-|    4 | 미정   | 문제명 | 미정 | 미정   | [문제 바로가기](문제링크) | 예정      |
-|    5 | 미정   | 문제명 | 미정 | 미정   | [문제 바로가기](문제링크) | 예정      |
+## 📚 주차별 문제 목록
+
+### Week 01
+
+| 번호 |   플랫폼    | 문제                                 |                                  유형                                  |                     난이도                     |                                                      링크                                                      | 진행 상태 |
+| :--: | :---------: | ------------------------------------ | :--------------------------------------------------------------------: | :--------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-------: |
+|  1   |    SWEA     | 1954. 달팽이 숫자                    | <details><summary>보기</summary>2차원 배열, 구현, 시뮬레이션</details> |  <details><summary>보기</summary>D2</details>  | [문제 바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq) |   예정    |
+|  2   |    SWEA     | 1209. Sum                            |     <details><summary>보기</summary>2차원 배열, 완전탐색</details>     |  <details><summary>보기</summary>D3</details>  | [문제 바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh) |   예정    |
+|  3   |    SWEA     | 1979. 어디에 단어가 들어갈 수 있을까 | <details><summary>보기</summary>2차원 배열, 행·열 탐색, 구현</details> |  <details><summary>보기</summary>D2</details>  | [문제 바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PuPq6AaQDFAUq) |   예정    |
+|  4   |    SWEA     | 2805. 농작물 수확하기                | <details><summary>보기</summary>2차원 배열, 규칙 탐색, 구현</details>  |  <details><summary>보기</summary>D3</details>  | [문제 바로가기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB) |   예정    |
+|  5   | Programmers | 행렬 테두리 회전하기                 | <details><summary>보기</summary>2차원 배열, 구현, 시뮬레이션</details> | <details><summary>보기</summary>Lv.2</details> |                [문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)                |   예정    |
 
 <!-- 템플릿
 
@@ -55,18 +59,15 @@
 |    4 | 미정   | 문제명 | 미정 | 미정   | [문제 바로가기](문제링크) | 예정      |
 |    5 | 미정   | 문제명 | 미정 | 미정   | [문제 바로가기](문제링크) | 예정      |
 
-
 to. 다음출제자 분께
 
 새로운 주차가 시작되면 위 표를 복사해 아래에 추가합니다.
-
 
 진행 상태는 다음 중 하나로 작성합니다.
 
 ```text
 예정 / 진행 중 / 완료
 ```
-
 
 -->
 
