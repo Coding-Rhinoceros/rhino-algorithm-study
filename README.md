@@ -89,20 +89,14 @@ rhino-algorithm-study
 │
 ├─ week01
 │  ├─ yeajeong
-│  │  ├─ BOJ_2178
-│  │  │  └─ Main.java
-│  │  ├─ PG_42576
-│  │  │  └─ Solution.java
-│  │  └─ SWEA_1954
-│  │     └─ Solution.java
+│  │  ├─ BOJ_2178.java
+│  │  ├─ PG_42576.java
+│  │  └─ SWEA_1954.java
 │  │
 │  ├─ minsu
-│  │  ├─ BOJ_2178
-│  │  │  └─ main.cpp
-│  │  ├─ PG_42576
-│  │  │  └─ solution.cpp
-│  │  └─ SWEA_1954
-│  │     └─ solution.cpp
+│  │  ├─ BOJ_2178.cpp
+│  │  ├─ PG_42576.cpp
+│  │  └─ SWEA_1954.cpp
 │  │
 │  └─ member3
 │     └─ ...
@@ -120,7 +114,7 @@ rhino-algorithm-study
 편의상 아래와 같이 규칙을 정하지만 폴더 구조만 파일명은 원하는 대로 하셔도 상관 없습니다.
 
 ```text
-week{주차}/{이름 or GitHub아이디}/{플랫폼}_{문제번호}
+week{주차}/{이름 or GitHub아이디}/{플랫폼}_{문제번호}.{확장자}
 ```
 
 예시:
